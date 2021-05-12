@@ -1,5 +1,5 @@
 ### Olá! Meu Nome é Gabriel Cardoso Sou Conhecido Como TheTio.
-### Bem-Vindo ao Meu Perfil! 😄
+
 
 <!--
 **TheTio/TheTio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
