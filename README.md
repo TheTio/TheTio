@@ -1,4 +1,4 @@
-### Olá! Meu Nome é Gabriel Cardoso Sou Conhecido Como TheTio.
+### Olá! Meu Nome é Gabriel Sou Conhecido Como TheTio.
 
 
 <!--
